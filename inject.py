@@ -42,7 +42,7 @@ def create_gui():
     
     root = ctk.CTk()
     root.title("Bybit Style Loader")
-    root.geometry("500x400")  # Размер окна
+    root.geometry("400x400")  # Размер окна
 
     # Заголовок
     title_label = ctk.CTkLabel(
